@@ -9,15 +9,15 @@ body {
 }
 
 nav {
-  background-color: grey;
+  background-color: rgb(228, 225, 209);
   height: 30px;
 }
 
 a {
   margin: 30px;
   padding: 10px;
-  background-color: yellow;
-  border: 1px solid red;
+  background-color: rgb(30, 255, 0);
+  border: 1px solid rgb(0, 17, 255);
 }
 
 ul a {
@@ -25,6 +25,8 @@ ul a {
   padding: 0;
   background-color: transparent;
   border: none;
+  text-decoration: none;
+  color: red;
 }
 
 h1 {
@@ -32,8 +34,9 @@ h1 {
 }
 
 div {
-  background-color: #efe;
+  background-color: rgb(86, 143, 86);
   padding: 10px;
+  color: yellow;
 }
 
 p {
