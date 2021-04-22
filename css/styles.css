@@ -3,13 +3,13 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: rgb(190, 36, 36);
   width: 800px;
   margin: 0 auto;
 }
 
 nav {
-  background-color: grey;
+  background-color: rgb(161, 94, 248);
   height: 30px;
 }
 
