@@ -3,21 +3,21 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: rgb(214, 174, 174);
   width: 800px;
   margin: 0 auto;
 }
 
 nav {
-  background-color: grey;
+  background-color: rgb(116, 98, 98);
   height: 30px;
 }
 
 a {
   margin: 30px;
   padding: 10px;
-  background-color: yellow;
-  border: 1px solid red;
+  background-color: rgb(230, 14, 230);
+  border: 1px solid rgb(126, 47, 47);
 }
 
 ul a {
@@ -32,7 +32,7 @@ h1 {
 }
 
 div {
-  background-color: #efe;
+  background-color: rgb(225, 228, 225);
   padding: 10px;
 }
 
