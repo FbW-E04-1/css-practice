@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color:gray;
 }
 
 body {
@@ -16,7 +16,7 @@ nav {
 a {
   margin: 30px;
   padding: 10px;
-  background-color: yellow;
+  background-color: goldenrod;
   border: 1px solid red;
 }
 
@@ -38,4 +38,12 @@ div {
 
 p {
   font-family: sans-serif;
+} 
+.kitty {
+  background: white;
+  width:  500px;
+} 
+.set {
+ color: red; 
+ font-size: larger;
 }
