@@ -47,7 +47,9 @@ p {
 
 #lorem {
   font-size: 1.5em;
-
   
+}
 
+span {
+  font-weight: bold;
 }
