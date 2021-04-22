@@ -1,23 +1,23 @@
 html {
-  background-color: black;
+  background-color: darkblue;
 }
 
 body {
-  background-color: white;
-  width: 800px;
-  margin: 0 auto;
+  background-color:yellow;
+  width: 700px;
+  margin: 5 auto;
 }
 
 nav {
-  background-color: grey;
-  height: 30px;
+  background-color: pink;
+  height: 50px;
 }
 
 a {
-  margin: 30px;
-  padding: 10px;
-  background-color: yellow;
-  border: 1px solid red;
+  margin: 0px;
+  padding: 20px;
+  background-color: aqua;
+  border: 3px solid red;
 }
 
 ul a {
@@ -29,13 +29,27 @@ ul a {
 
 h1 {
   text-align: center;
+  color: blue;
+  padding: 5px;
+  background-color: lawngreen;
+  margin: 20px;
 }
 
 div {
-  background-color: #efe;
+  background-color: fuchsia;
   padding: 10px;
+  margin: 10px;
 }
 
 p {
   font-family: sans-serif;
+}
+
+#lorem {
+  font-size: 1.5em;
+  
+}
+
+span {
+  font-weight: bold;
 }
