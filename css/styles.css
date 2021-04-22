@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color: rgb(117, 38, 82);
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 
 nav {
   background-color: grey;
-  height: 30px;
+  height: 35px;
 }
 
 a {
