@@ -1,39 +1,44 @@
 html {
-  background-color: black;
+  background-color: greenyellow;
 }
 
 body {
-  background-color: white;
-  width: 800px;
-  margin: 0 auto;
+  background-color: maroon;
+  width: 1000x;
+  margin: 50px auto;
 }
 
 nav {
   background-color: grey;
-  height: 30px;
+  height: 1px;
+  border-color: 50px red;
+
+
 }
 
 a {
-  margin: 30px;
-  padding: 10px;
+  margin: 50px;
+  padding: 2px;
   background-color: yellow;
-  border: 1px solid red;
+  border: 3px double red;
 }
 
 ul a {
+  color: white;
   margin: 0;
   padding: 0;
-  background-color: transparent;
+  background-color: blueviolet;
   border: none;
 }
 
 h1 {
   text-align: center;
+  background-color: cyan;
 }
 
 div {
-  background-color: #efe;
-  padding: 10px;
+  background-color: rgba(172, 32, 165, 0.678);
+  padding: 100px;
 }
 
 p {
